@@ -1,0 +1,12 @@
+id,name,price,stock,size,category
+1,Vintage T-shirt,19.99,10,M,T-shirt
+2,Levi's Jeans,49.99,5,L,Pantolon
+3,Leather Jacket,89.99,2,M,Ceket
+4,Canvas Bag,14.99,20,One Size,Aksesuar
+5,Flannel Shirt,24.99,7,L,Gömlek
+6,Sneakers,59.99,4,42,Ayakkabı
+7,Denim Jacket,69.99,3,L,Ceket
+8,Hoodie,29.99,8,XL,Sweatshirt
+9,Vintage Hat,9.99,15,One Size,Aksesuar
+10,Cargo Pants,39.99,6,M,Pantolon
+11,gomlek,13.00,2,M,Gomlek
