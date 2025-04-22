@@ -1,10 +1,10 @@
-# 🧥 Thrift Store Manager
+# 🧥  Store Manager
 
-**Thrift Store Manager**, ikinci el bir kıyafet mağazasını yöneten full-stack bir projedir.  
+** Store Manager**, ikinci el bir kıyafet mağazasını yöneten full-stack bir projedir.  
 Bir terminal uygulaması (C), bir REST API (Node.js + Express + SQLite) ve duyarlı bir frontend arayüzü (HTML/CSS/JS) içerir.  
 Bu README, portfolyo sunumu ve test rehberi olarak hazırlanmıştır.
 
-**Thrift Store Manager** est un projet full-stack pour gérer une friperie (magasin de vêtements d’occasion).  
+** Store Manager** est un projet full-stack pour gérer une magasin.  
 Il comprend une application terminal (C), une API REST (Node.js + Express + SQLite) et une interface web responsive (HTML/CSS/JS).  
 Ce fichier README sert de documentation et guide de test pour un portfolio.
 
@@ -14,32 +14,13 @@ Ce fichier README sert de documentation et guide de test pour un portfolio.
 
 - ✅ Ürün yönetimi (listeleme, ekleme, güncelleme, silme)  
 - ✅ Sipariş sistemi (sipariş oluşturma ve listeleme)  
-- ✅ SQLite veritabanı (hafif ve portatif)  
+- ✅ SQLite veritabanı 
 - ✅ REST API (Node.js + Express)  
 - ✅ Ön yüz (HTML + Bootstrap + Vanilla JS)  
 - ✅ (Opsiyonel) C dili ile terminal aracı
 
 ---
 
-## 📁 Proje Yapısı / Structure du projet
-
-```
-thrift-store-manager/
-├── public/                # Frontend dosyaları / Fichiers frontend
-│   ├── index.html
-│   ├── script.js
-│   └── style.css
-├── src/                   # Backend dosyaları / Backend files
-│   ├── controllers/       # İş mantığı / Logique métier
-│   ├── routes/            # API endpointleri / Routes API
-│   ├── db.js              # Veritabanı bağlantısı / Connexion SQLite
-│   └── app.js             # Express sunucu kurulumu / Configuration serveur Express
-├── .env                   # Ortam değişkenleri / Variables d'environnement
-├── thrift_store_manager.db # SQLite veritabanı / base de données SQLite
-└── README.md
-```
-
----
 
 ## 🧪 Test Rehberi / Guide de test
 
